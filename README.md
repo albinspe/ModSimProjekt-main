@@ -14,14 +14,14 @@ A Unity simulation of a tennis ball trajectory including aerodynamics, spin, and
 - Unity (C#)
 - Physics modeling (custom forces, no built-in gravity)
 
-## 📊 What I did
+## 📊 What we did
 - Implemented physical model for ball motion
 - Modeled bounce dynamics using friction & restitution
 - Added spin system with Magnus force
 - Simulated realistic trajectories
 
 ## 🎥 Demo
-<img width="1158" alt="image" src="https://gits-15.sys.kth.se/user-attachments/assets/98faea60-8741-415f-a7dd-f76b2b4ca080" />
+![Example](Blog/image.png)
 
 ## 📌 Future improvements
 - Net interaction
